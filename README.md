@@ -1,3 +1,5 @@
+SpringBoot学生寒衣管理系统（SpringBoot入门程序）
+技术支持：SpringBoot+MyBatis+MySQL
 系统角色: 学生,辅导员,学院用户,学校用户
 
 功能列表:
